@@ -1,0 +1,9 @@
+.slides {
+    display: flex;
+    overflow: hidden;
+}
+
+.slides img {
+    width: 10%;
+    display: none;
+}

@@ -1,0 +1,13 @@
+#container {
+    position: relative;
+    width: 1500px;
+    height: 725px;
+    border: 1px solid black;
+    overflow: hidden;
+}
+
+#image {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+}
